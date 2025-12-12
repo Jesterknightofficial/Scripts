@@ -1,0 +1,1 @@
+touch $( du | rofi -dmenu) 

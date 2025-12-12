@@ -1,0 +1,2 @@
+pkill -f "entr compiler" && exit
+echo "1$" | entr compiler "1$"
